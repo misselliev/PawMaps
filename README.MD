@@ -4,7 +4,7 @@
 Woof powered maps to help you get where you want to go.
 Built on coffee:coffee: and barks :dog:. 
 
-![homepage screen](docs/home.png)
+![homepage screen](home.png)
 
 ## 🔨 Tools
 - JavaScript
